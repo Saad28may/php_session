@@ -13,5 +13,4 @@ $_SESSION['form1'] = $_POST["color"];
 header('Location: form2.php');
 exit;
 }
-//check
 ?>
